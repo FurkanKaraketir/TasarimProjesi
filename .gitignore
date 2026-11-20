@@ -1,0 +1,43 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mltbx
+*.p
+helpsearch*/
+slprj/
+octave-workspace
+
+# Simulink
+*.autosave
+*.slxc
+*.slx.r*
+*.mdl.r*
+*.bak
+sccprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
+
+# Simülasyon çıktıları (büyük veri, betiklerle yeniden üretilir)
+*.sldd.r*
+*.mat~
+*.mp4
+
+# RoadRunner
+*.rrscene.bak
+RoadRunnerProject/Cache/
+**/Cache/
+*.log
+
+# İşletim sistemi ve editör
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/
+*.swp
+*~
